@@ -32,3 +32,5 @@ curl -s $(terraform output lb-ip)
 echo
 curl -s $(terraform output lb-ip)
 echo
+
+fsaasa
